@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.robolectric:utils:4.9.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.robolectric/utils/4.9.2/46ff31253a8bd870275c43db35e03ce57de9d50a/utils-4.9.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.robolectric/utils/4.9.2/390c10770d53b73189cea74883e06aef5560e614/utils-4.9.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.robolectric/utils/4.9.2/9bd9ef367225cc9f5492f6f7bb84866e5c0638da/utils-4.9.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

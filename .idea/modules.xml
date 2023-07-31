@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-107498901/android-sdk.iml" filepath="$PROJECT_DIR$/.idea/modules/-107498901/android-sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android-sdk.library.iml" filepath="$PROJECT_DIR$/.idea/modules/android-sdk.library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-820288201/android-sdk.library-no-op.iml" filepath="$PROJECT_DIR$/.idea/modules/-820288201/android-sdk.library-no-op.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-820288201/android-sdk.library-no-op.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-820288201/android-sdk.library-no-op.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-820288201/android-sdk.library-no-op.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-820288201/android-sdk.library-no-op.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-820288201/android-sdk.library-no-op.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-820288201/android-sdk.library-no-op.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android-sdk.library.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/android-sdk.library.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android-sdk.library.main.iml" filepath="$PROJECT_DIR$/.idea/modules/android-sdk.library.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android-sdk.library.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/android-sdk.library.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-622451250/android-sdk.sample.iml" filepath="$PROJECT_DIR$/.idea/modules/-622451250/android-sdk.sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-622451250/android-sdk.sample.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-622451250/android-sdk.sample.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-622451250/android-sdk.sample.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-622451250/android-sdk.sample.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-622451250/android-sdk.sample.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-622451250/android-sdk.sample.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2071268480/android-sdk.samplehms.iml" filepath="$PROJECT_DIR$/.idea/modules/-2071268480/android-sdk.samplehms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2071268480/android-sdk.samplehms.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-2071268480/android-sdk.samplehms.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2071268480/android-sdk.samplehms.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-2071268480/android-sdk.samplehms.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2071268480/android-sdk.samplehms.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-2071268480/android-sdk.samplehms.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/215234800/android-sdk.samplejava.iml" filepath="$PROJECT_DIR$/.idea/modules/215234800/android-sdk.samplejava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/215234800/android-sdk.samplejava.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/215234800/android-sdk.samplejava.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/215234800/android-sdk.samplejava.main.iml" filepath="$PROJECT_DIR$/.idea/modules/215234800/android-sdk.samplejava.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/215234800/android-sdk.samplejava.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/215234800/android-sdk.samplejava.unitTest.iml" />
+    </modules>
+  </component>
+</project>

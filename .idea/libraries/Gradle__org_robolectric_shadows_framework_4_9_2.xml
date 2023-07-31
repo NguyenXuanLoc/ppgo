@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.robolectric:shadows-framework:4.9.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.robolectric/shadows-framework/4.9.2/8854520515f61e7f8319534dbbea3071cd282c54/shadows-framework-4.9.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.robolectric/shadows-framework/4.9.2/101bdd516ae8b2f4d8668208493e3397ce3b2ae1/shadows-framework-4.9.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.robolectric/shadows-framework/4.9.2/7ceaeaaf99ba95f32cc109fb8b9d3adb39a08934/shadows-framework-4.9.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

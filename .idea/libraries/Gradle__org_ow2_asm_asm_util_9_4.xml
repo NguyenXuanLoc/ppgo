@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.ow2.asm:asm-util:9.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-util/9.4/ab1e0a84b72561dbaf1ee260321e72148ebf4b19/asm-util-9.4.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-util/9.4/b290f1a9f4b5bd78ee2124eac059abbf8a132fb0/asm-util-9.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-util/9.4/f4a5dfe8c02f87119418e3aaac0689fc3cc5b3db/asm-util-9.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

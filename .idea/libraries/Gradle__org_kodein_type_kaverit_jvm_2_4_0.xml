@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.kodein.type:kaverit-jvm:2.4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kodein.type/kaverit-jvm/2.4.0/88ddf14cf92b6d5bdce6472709ae19129c12f8d1/kaverit-jvm-2.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kodein.type/kaverit-jvm/2.4.0/f7e607227d6a36169814bc54294088e1ba54e6d3/kaverit-jvm-2.4.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kodein.type/kaverit-jvm/2.4.0/263016c052a1917bbd6bbe3c39d872c736ddc3fb/kaverit-jvm-2.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
